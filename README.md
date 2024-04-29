@@ -1,5 +1,9 @@
 # Dinosaur T-Rex Game with NEAT Algorithm
 
+![Dinosaur T-Rex Game with NEAT Algorithm](https://github.com/konstantinoskolios/dinosaur-ai-video-code-pdf/preview.gif)
+
+
+
 ## Overview
 Experience the evolution of gaming with our T-Rex dinosaur game, where the dinosaur learns to navigate obstacles using the cutting-edge NEAT (NeuroEvolution of Augmenting Topologies) algorithm. Watch as the dinosaur adapts and improves its jumping skills through natural selection, creating an immersive and challenging gaming experience.
 
