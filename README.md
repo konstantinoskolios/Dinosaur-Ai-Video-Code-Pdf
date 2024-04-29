@@ -1,6 +1,6 @@
 # Dinosaur T-Rex Game with NEAT Algorithm
 
-<img src="/preview.gif" alt="Preview" autoplay>
+![Preview](/preview.gif)
 
 
 
