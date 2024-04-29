@@ -34,5 +34,4 @@ For an in-depth presentation on the game's development and functionality, please
 
 ## Credits
 - Game development: Konstantinos Kolios
-- NEAT algorithm implementation: Konstantinos Kolios
 - Pygame library: [pygame.org]
