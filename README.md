@@ -1,6 +1,6 @@
 # Dinosaur T-Rex Game with NEAT Algorithm
 
-![Dinosaur T-Rex Game with NEAT Algorithm](https://github.com/konstantinoskolios/dinosaur-ai-video-code-pdf/preview.gif)
+![Dinosaur T-Rex Game with NEAT Algorithm]([https://github.com/konstantinoskolios/dinosaur-ai-video-code-pdf/preview.gif](https://github.com/konstantinoskolios/Dinosaur-Ai-Video-Code-Pdf/blob/master/preview.gif))
 
 
 
